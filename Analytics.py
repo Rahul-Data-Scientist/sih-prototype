@@ -97,4 +97,4 @@ with tabs[4]:
     st.plotly_chart(fig8, use_container_width=True)
 
 # --- Footer ---
-st.markdown("<p style='text-align:center; color: gray;'>📊 Developed by Team - AI Marine Platform Prototype</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color: gray;'>📊 Developed by Team - BluMind</p>", unsafe_allow_html=True)
