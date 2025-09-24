@@ -1,2 +1,15 @@
 [theme]
-    base="light"
+# Ocean-inspired primary color for interactive elements
+primaryColor="#00629A"
+
+# Dark, deep ocean background
+backgroundColor="#01213F"
+
+# A slightly lighter shade for sidebars and widgets
+secondaryBackgroundColor="#063D66"
+
+# Light, contrasting color for the text
+textColor="#F4F4E8"
+
+# A modern, clean font
+font="sans serif"
