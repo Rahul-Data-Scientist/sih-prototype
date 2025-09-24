@@ -47,7 +47,7 @@ uploaded_file = st.file_uploader("Upload an Otolith Image", type=["png", "jpg", 
 if uploaded_file:
     # Display uploaded image
     image = Image.open(uploaded_file)
-    st.image(image, caption="Uploaded Otolith Image", use_column_width=True)
+    st.image(image, caption="Uploaded Otolith Image", use_container_width=True)
     st.markdown("---")
     
     # --- Predict button ---
